@@ -2,6 +2,7 @@
     "sections": [
         {
             "title": "Appetizers",
+            "details": "Our appetizers showcase the diverse flavors of Vietnam, blending fresh ingredients and traditional recipes passed down through generations. From the light and refreshing Summer Rolls to the crispy Spring Rolls, each bite tells a story of Vietnam's rich culinary heritage, where fresh herbs, crunchy vegetables, and savory meats come together to create a delicious start to your meal.",
             "items": [
                 {
                     "title": "Summer Rolls (2)",
@@ -35,7 +36,7 @@
         },
         {
             "title":"Soups",
-            "details": "All soups are served with fresh rice noodles in a bowl with hot boiling broth, come with bean sprouts, green peppers, slices of lime and (season) fresh sweet basil. Choice of toppings.",
+            "details": "Our soups are a taste of Vietnam's comforting culinary tradition, rooted in centuries-old recipes and local ingredients. Pho, Vietnam's iconic noodle soup, originated as a humble street food in Hanoi and has since become a beloved national dish. With its aromatic broth, tender meat, and fresh herbs, each bowl of pho offers a glimpse into Vietnam's vibrant food culture and the warmth of its people. All soups are served with fresh rice noodles in a bowl with hot boiling broth, come with bean sprouts, green peppers, slices of lime and (season) fresh sweet basil. Choice of toppings.",
             "options": [
                 {"size": [
                     {
@@ -182,6 +183,7 @@
         {
             "title": "Vermicelli Bowls",
             "traditional": "BÚN",
+            "details": "Our vermicelli bowls are a delicious way to experience Vietnam's love affair with noodles. Vermicelli, made from rice flour, has been a dietary staple in Vietnam for centuries, valued for its light texture and versatility. Our bowls, topped with grilled meats, fresh vegetables, and tangy sauces, reflect Vietnam's culinary ingenuity and the simple pleasures of a well-balanced meal.",
             "items": [
                 {
                     "number":"B1",
@@ -208,6 +210,7 @@
         {
             "title": "Rice Dish",
             "traditional": "CỎM DĨA",
+            "details": "Our rice dishes celebrate Vietnam's agricultural heritage, where rice has been a dietary staple for thousands of years. Each dish features fragrant rice, paired with flavorful meats, savory sauces, and crisp vegetables, creating a satisfying and wholesome meal. With roots in Vietnam's farming communities, our rice dishes embody the country's tradition of using locally sourced ingredients to create delicious and nourishing food.",
             "items": [
                 {
                     "number": "7",
@@ -257,7 +260,26 @@
             ]
         },
         {
+            "title": "Dessert",
+            "details": "Our desserts are a sweet ending to your meal, inspired by Vietnam's rich culinary traditions and love of all things sweet. From colorful jello and coconut milk to creamy three-colored desserts, each sweet treat reflects Vietnam's creative spirit and the joy of sharing delicious food with friends and family. With a focus on fresh ingredients and traditional recipes, our desserts are a delicious way to experience Vietnam's sweet side.",
+            "items":[
+                {
+                    "title": "Colored Jello and Coconut Milk",
+                    "traditional": "Sương Xa Hột Lựu"
+                },
+                {
+                    "title": "Three Colored Sweetened Dessert",
+                    "traditional": "Chè Ba Màu"
+                },
+                {
+                    "title": "Dried  logan in light syrup with ice",
+                    "traditional": "Nhân Nhuc"
+                }
+            ]
+        },
+        {
             "title": "Beverages",
+            "details": "Quench your thirst with our refreshing selection of beverages, inspired by Vietnam's vibrant street food culture and tropical climate. From traditional Vietnamese iced coffee to fruity bubble teas, each drink offers a taste of Vietnam's diverse culinary landscape and the creativity of its people. Whether you're cooling off with a soda or savoring a cup of hot tea, our beverages are sure to delight your taste buds and leave you feeling refreshed.",
             "categories": [
                 {
                     "title": "Soda",
@@ -279,6 +301,47 @@
                         },
                         {
                             "title": "Fanta"
+                        }
+                    ]
+                },
+                {
+                    "title": "Beer",
+                    "items": [
+                        {
+                            "title": "VietNam 33"
+                        },
+                        {
+                            "title": "Heineken"
+                        },
+                        {
+                            "title": "Corona"
+                        },
+                        {
+                            "title": "Tsingtao"
+                        },
+                        {
+                            "title": "Samuel Adams"   
+                        },
+                        {
+                            "title": "Budweiser"
+                        },
+                        {
+                            "title": "Bud Light"
+                        }
+                    ]
+                },
+                {
+                    "title": "Wine",
+                    "details": "Order our _house wine_ or **Kendall Jackson** by the _glass_ or _bottle_.",
+                    "items":[
+                        {
+                            "title": "Merlot"
+                        },
+                        {
+                            "title": "Cabernet"
+                        },
+                        {
+                            "title": "Chardonnay"
                         }
                     ]
                 },
@@ -401,23 +464,6 @@
                         "title": "Strawberry-Mango",
                         "traditional": "Dâu - Xoài "
                       }
-                    ]
-                },
-                {
-                    "title": "Dessert",
-                    "items":[
-                        {
-                            "title": "Colored Jello and Coconut Milk",
-                            "traditional": "Sương Xa Hột Lựu"
-                        },
-                        {
-                            "title": "Three Colored Sweetened Dessert",
-                            "traditional": "Chè Ba Màu"
-                        },
-                        {
-                            "title": "Dried  logan in light syrup with ice",
-                            "traditional": "Nhân Nhuc"
-                        }
                     ]
                 }
             ]
