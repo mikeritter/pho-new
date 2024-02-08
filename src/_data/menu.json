@@ -37,8 +37,7 @@
             "title":"Soups",
             "details": "All soups are served with fresh rice noodles in a bowl with hot boiling broth, come with bean sprouts, green peppers, slices of lime and (season) fresh sweet basil. Choice of toppings.",
             "options": [
-                {"protein": ["Beef", "Cicken", "Vegetarian"]},
-                {"size":[
+                {"size": [
                     {
                         "title": "large",
                         "traditional": "TÔ LỚN"
@@ -328,13 +327,13 @@
                         }, 
                         {
                             "number": 9 ,
-                            "title": "Soy Bean Milk ",
-                            "traditional": "Sửa Đậu Nành "
+                            "title": "Soy Bean Milk",
+                            "traditional": "Sửa Đậu Nành"
                           },
                           {
                             "number": 10,
-                            "title": "Salted Plum ",
-                            "traditional": "xi Muối "
+                            "title": "Salted Plum",
+                            "traditional": "xi Muối"
                           },
                           {
                             "number": 11,
